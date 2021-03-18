@@ -1,0 +1,13 @@
+{
+  "name": "simple-backend-api",
+  "version": "0.0.0",
+  "description": "SimpleBackendAPI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest"
+  }
+}
